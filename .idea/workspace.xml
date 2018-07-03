@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c78bc7c-ebeb-44c9-b9d7-1319fc5254c8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/assuresoftBuilder/BuilderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftBuilder/BuilderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/assuresoftBuilder/Cd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftBuilder/Cd.java" afterDir="false" />
-    </list>
+    <list default="true" id="8c78bc7c-ebeb-44c9-b9d7-1319fc5254c8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,15 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CDBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/CDBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BuilderDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/BuilderDemo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DomesticPlan.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DomesticPlan.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/DomesticPlan.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -53,6 +41,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Screen Shot 2018-07-03 at 2.34.57 PM.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/Screen Shot 2018-07-03 at 2.34.57 PM.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="CommercialPlan.java" pinned="false" current-in-tab="false">
@@ -173,9 +166,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="63" />
-    <option name="y" value="40" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="277" />
+    <option name="y" value="56" />
     <option name="width" value="853" />
     <option name="height" value="805" />
   </component>
@@ -203,13 +196,6 @@
               <item name="com.assuresoft.patron" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.assuresoft.patron" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.assuresoft.patron" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="assuresoftFactoryMethod" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,15 +290,15 @@
       <updated>1530563568767</updated>
       <workItem from="1530563570270" duration="3187000" />
       <workItem from="1530621767135" duration="906000" />
-      <workItem from="1530623355874" duration="7865000" />
+      <workItem from="1530623355874" duration="9014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11958000" />
+    <option name="totallyTimeSpent" value="13107000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="40" width="853" height="805" extended-state="0" />
+    <frame x="277" y="56" width="853" height="805" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -741,9 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/Screen Shot 2018-07-03 at 2.34.57 PM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/Packing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -834,6 +817,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/Screen Shot 2018-07-03 at 2.34.57 PM.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
