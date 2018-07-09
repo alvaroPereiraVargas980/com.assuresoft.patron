@@ -1,7 +1,7 @@
 Description: Se utiliza para interconectar una interfaz con otra, de tal modo que se puedan 
 trabajar con dos interfaces incompatibles.
-Advantages.
+Advantages:
 * Interconecta dos interfaces incompatibles.
 * Puede encapsular clases que no conocemos y no controlamos.
-Disavantages.
+Disavantages:
 * Como muchos patrones añade complejidad al diseño.
