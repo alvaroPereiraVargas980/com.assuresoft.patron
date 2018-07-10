@@ -5,4 +5,4 @@ instancia.
 * Cumple con el princio de Single Responsability.
 * Desventajas
 * Una clase singleton no puede ser una sub-clase.
-* Los patrones Singleton pueden ocultar dependencias. Por lo tanto inposibilita la caracteristica de realizar unit test.
+* Los patrones Singleton pueden ocultar dependencias. Por lo tanto imposibilita la caracteristica de realizar un unit test.
