@@ -1,6 +1,6 @@
-* Description
+* Descripcion
   Permite establecer una cadena de objetos receptores a travez de los cuales se pasa una peticion formulada por un objeto emisor
-  La idea es que cualquiera de los receptores peude responder la peticion en funcion a un criterio dado.
+  La idea es que cualquiera de los receptores puede responder la peticion en funcion a un criterio dado.
  * Ventajas
  * El uso del patron reduce el acoplamiento.
  * El patron añade flexibilidad mientras asigna responsabilidades a los objetos.
