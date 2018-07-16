@@ -17,12 +17,12 @@ public class SamSungTvTest {
         doNothing().when(samSungTv).on();
     }
     @Test
-    public void off() {
+    public void off() throws Exception{
         doNothing().when(samSungTv).off();
     }
 
     @Test
-    public void switchChannel() {
+    public void switchChannel() throws Exception{
         doNothing().when(samSungTv).switchChannel(12);
 
     }

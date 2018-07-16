@@ -11,11 +11,7 @@ import org.mockito.Mock;
 import static org.mockito.Mockito.*;
 
 public class AbstractRemoteControlTest {
-    @Mock
-    ITV itv;
-
-    @InjectMocks
-    AbstractRemoteControl abstractRemoteControl;
+    private AbstractRemoteControl abstractRemoteControl;
 
     @Before
     public void setUpMockup(){
@@ -23,18 +19,19 @@ public class AbstractRemoteControlTest {
     }
 
     @Test
-    public void turOn() {
+    public void turOn() throws Exception{
        doNothing().when(abstractRemoteControl).turOn();
+
 
     }
 
     @Test
-    public void turnOff() {
+    public void turnOff() throws Exception {
         doNothing().when(abstractRemoteControl).turnOff();
     }
 
     @Test
-    public void setChannel() {
+    public void setChannel() throws Exception{
         doNothing().when(abstractRemoteControl).setChannel(12);
     }
 }

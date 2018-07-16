@@ -14,12 +14,12 @@ public class SonyTVTest {
         doNothing().when(sonyTV).on();
     }
     @Test
-    public void off() {
+    public void off() throws Exception{
         doNothing().when(sonyTV).off();
     }
 
     @Test
-    public void switchChannel() {
+    public void switchChannel() throws Exception{
         doNothing().when(sonyTV).switchChannel(12);
 
     }

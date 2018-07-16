@@ -16,7 +16,7 @@ import static org.mockito.Mockito.doNothing;
 public class LogitechRemoteControlTest {
     LogitechRemoteControl logitechRemoteControl;
     @Test
-    public void setChannerKeyboard() {
+    public void setChannerKeyboard() throws Exception {
         doNothing().when(logitechRemoteControl).setChannerKeyboard(12);
 
     }
