@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c78bc7c-ebeb-44c9-b9d7-1319fc5254c8" name="Default" comment="" />
+    <list default="true" id="8c78bc7c-ebeb-44c9-b9d7-1319fc5254c8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.assuresoft.patron.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.assuresoft.patron.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftAdapter/AdapterPatterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftAdapter/AdapterPatterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftAdapter/Volt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftAdapter/Volt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftChainResponsability/Dollar10Dispenser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftChainResponsability/Dollar10Dispenser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftCommand/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftCommand/Stock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftDecorator/RedShapeDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftDecorator/RedShapeDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftFactoryMethod/CommercialPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftFactoryMethod/CommercialPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftFactoryMethod/DomesticPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftFactoryMethod/DomesticPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftFactoryMethod/Plan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.assuresoft.patron/com/assuresoftFactoryMethod/Plan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftAdapter/AdapterPatterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftAdapter/AdapterPatterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftAdapter/Test/AdapterPatterTestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftAdapter/TestAdaterPatter/AdapterPatterTestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftAdapter/Test/SocketClassAdapterImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftAdapter/TestAdaterPatter/SocketClassAdapterImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftAdapter/Test/SocketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftAdapter/TestAdaterPatter/SocketTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftAdapter/Test/SocketsObjectAdapterImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftAdapter/TestAdaterPatter/SocketsObjectAdapterImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftAdapter/Test/VoltTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftAdapter/TestAdaterPatter/VoltTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftAdapter/Volt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftAdapter/Volt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Dollar10Dispenser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Dollar10Dispenser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftCommand/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftCommand/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftDecorator/RedShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftDecorator/RedShapeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/CommercialPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/CommercialPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/DomesticPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/DomesticPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/Plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/Plan.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,106 +34,128 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/com_assuresoft_patron$AdapterPatterTest.ic" NAME="AdapterPatterTest Coverage Results" MODIFIED="1531257007756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.assuresoftAdapter.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StrategyPatterDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/StrategyPatterDemo.java">
+      <file leaf-file-name="CDBuilderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/TestBuilderPatter/CDBuilderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cricket.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Cricket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="148">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fooball.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Fooball.java">
+      <file leaf-file-name="CDBuilderTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/Test/CDBuilderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="-57">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TempaltePatterDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/TempaltePatterDemo.java">
+      <file leaf-file-name="InstitucionalPlanTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/InstitucionalPlanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="39" />
+              <folding>
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/Iterator.java">
+      <file leaf-file-name="Plan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/Plan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="60">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CompositeDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/CompositeDemo.java">
+      <file leaf-file-name="PlanTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/PlanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="148">
+              <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Container.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/Container.java">
+      <file leaf-file-name="CircleTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/TestDecoratorPatter/CircleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="314">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NameRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/NameRepository.java">
+      <file leaf-file-name="CommercialPlanTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/CommercialPlanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IteratorPatterDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/IteratorPatterDemo.java">
+      <file leaf-file-name="RedShapeDecoratorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/TestDecoratorPatter/RedShapeDecoratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="41" column="59" selection-start-line="40" selection-start-column="7" selection-end-line="41" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeDecorator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/ShapeDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DomesticPlanTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/DomesticPlanTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="21" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,6 +166,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="Arquillian JUnit Test Class" />
       </list>
     </option>
   </component>
@@ -135,60 +183,72 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/sample.proyect" value="0" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/sample.proyect" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/assuresoftAdapter/SocketsObjectAdapterImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftAdapter/AdapterPatterTest.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/ITV.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/SamSungTv.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/SonyTV.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/AbstractRemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftAdapter/Test/SocketsObjectAdapterImplTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftAdapter/Volt.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftAdapter/Test/VoltTest.java" />
         <option value="$PROJECT_DIR$/src/com/assuresoftBridge/LogitechRemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftComposite/HeadDepartment.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftComposite/Department.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftComposite/CompositeDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftComposite/FinalcialDepartament.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftComposite/SalesDepartment.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/Shape.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/Circle.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/ShapeDecorator.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/RedShapeDecorator.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/DecoratorPatterDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/DisperseChain.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/ATMDispenseChain.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Dollar20Dispenser.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Dollar50Dispenser.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/AbstractRemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/SonyTV.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/Test/AbstractRemoteControlTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/Test/LogitechRemoteControlTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/Test/SamSungTvTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBridge/Test/SonyTVTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBuilder/Test/CDBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBuilder/Test/CDtypeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBuilder/SamsungTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBuilder/Test/SamsungTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBuilder/Test/SonyTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Test/CurrencyTest.java" />
         <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Dollar10Dispenser.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Currency.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/Order.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Test/Dollar10DispenserTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Test/Dollar20DispenserTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/Test/Dollar50DispenserTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBuilder/TestBuilderPatter/CDtypeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBuilder/TestBuilderPatter/SamsungTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBuilder/TestBuilderPatter/SonyTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/TestChainResponsability/CurrencyTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/TestChainResponsability/Dollar20DispenserTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftBuilder/TestBuilderPatter/CDBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/Test/BrokerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/Test/BuyStockTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/TestChainResponsability/Dollar50DispenserTest.java" />
         <option value="$PROJECT_DIR$/src/com/assuresoftCommand/Stock.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/BuyStock.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/SellStock.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/Broker.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/CommandPatterDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftObserver/Observer.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftObserver/OctalObserver.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftObserver/HexaObserver.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftObserver/ObserverpatterDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftObserver/Subject.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftObserver/BinaryObserver.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftStrategy/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftStrategy/OperationSubtract.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftStrategy/operatioMultiply.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftStrategy/operationAdd.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftStrategy/Context.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftStrategy/OperationAdd.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftStrategy/StrategyPatterDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftTemplate/Game.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftTemplate/Cricket.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftTemplate/Fooball.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftTemplate/TempaltePatterDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftIterator/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftIterator/Container.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftIterator/NameRepository.java" />
-        <option value="$PROJECT_DIR$/src/com/assuresoftIterator/IteratorPatterDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/TestCommandPatter/StockTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/TestCommandPatter/SellStockTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/TestCommandPatter/BuyStockTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftCommand/TestCommandPatter/BrokerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftComposite/TestCompositePattern/FinalcialDepartamentTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftComposite/TestCompositePattern/SalesDepartmentTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/TestDecoratorPatter/CircleTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/TestDecoratorPatter/RectangleTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/RedShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/RedShapeDecoratorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftComposite/TestCompositePattern/HeadDepartmentTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftDecorator/TestDecoratorPatter/RedShapeDecoratorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftChainResponsability/TestChainResponsability/Dollar10DispenserTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/Plan.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/CommercialPlan.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/CommercialPlanTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/DomesticPlanTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/DomesticPlan.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/GetPlanFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/InstitucionalPlanTest.java" />
+        <option value="$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/PlanTest.java" />
       </list>
     </option>
   </component>
@@ -201,11 +261,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="422" />
-    <option name="y" value="52" />
-    <option name="width" value="1017" />
-    <option name="height" value="805" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="92" />
+    <option name="width" value="1440" />
+    <option name="height" value="654" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,6 +272,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,24 +296,96 @@
               <item name="com.assuresoft.patron" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="assuresoftComposite" type="462c0819:PsiDirectoryNode" />
+              <item name="assuresoftBridge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.assuresoft.patron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.assuresoft.patron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="assuresoftBuilder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.assuresoft.patron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.assuresoft.patron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="assuresoftBuilder" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.assuresoft.patron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.assuresoft.patron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="assuresoftBuilder" type="462c0819:PsiDirectoryNode" />
+              <item name="TestBuilderPatter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.assuresoft.patron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.assuresoft.patron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="assuresoftChainResponsability" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.assuresoft.patron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.assuresoft.patron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="assuresoftChainResponsability" type="462c0819:PsiDirectoryNode" />
+              <item name="TestChainResponsability" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.assuresoft.patron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="com.assuresoft.patron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="com.assuresoft.patron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.assuresoftFactoryMethod.TestFactoryPattern" />
+      <recent name="com.assuresoftDecorator" />
+      <recent name="com.assuresoftDecorator.TestDecoratorPatter" />
+      <recent name="com.assuresoftComposite.TestCompositePattern" />
+      <recent name="com.assuresoftCommand.TestCommandPatter" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.assuresoftDecorator.TestDecoratorPatter" />
+      <recent name="com.assuresoftAdapter.Test" />
       <recent name="com.asuresoft" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,71 +400,136 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CompositeDemo">
-    <configuration name="CompositeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assuresoftComposite.CompositeDemo" />
+  <component name="RunManager" selected="JUnit.PlanTest.calculateBill">
+    <configuration name="GetPlanFactoryTest.getPlan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.assuresoft.patron" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assuresoftComposite.*" />
+          <option name="PATTERN" value="com.assuresoftFactoryMethod.TestFactoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern" />
+      <option name="MAIN_CLASS_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern.GetPlanFactoryTest" />
+      <option name="METHOD_NAME" value="getPlan" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="IteratorPatterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assuresoftIterator.IteratorPatterDemo" />
+    <configuration name="GetPlanFactoryTest.getPlanComescial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.assuresoft.patron" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assuresoftIterator.*" />
+          <option name="PATTERN" value="com.assuresoftFactoryMethod.TestFactoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern" />
+      <option name="MAIN_CLASS_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern.GetPlanFactoryTest" />
+      <option name="METHOD_NAME" value="getPlanComescial" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="ObserverpatterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assuresoftObserver.ObserverpatterDemo" />
+    <configuration name="GetPlanFactoryTest.getPlanDomestic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.assuresoft.patron" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assuresoftObserver.*" />
+          <option name="PATTERN" value="com.assuresoftFactoryMethod.TestFactoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern" />
+      <option name="MAIN_CLASS_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern.GetPlanFactoryTest" />
+      <option name="METHOD_NAME" value="getPlanDomestic" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="StrategyPatterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assuresoftStrategy.StrategyPatterDemo" />
+    <configuration name="InstitucionalPlanTest.getRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.assuresoft.patron" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assuresoftStrategy.*" />
+          <option name="PATTERN" value="com.assuresoftFactoryMethod.TestFactoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern" />
+      <option name="MAIN_CLASS_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern.InstitucionalPlanTest" />
+      <option name="METHOD_NAME" value="getRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="TempaltePatterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assuresoftTemplate.TempaltePatterDemo" />
+    <configuration name="PlanTest.calculateBill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.assuresoft.patron" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assuresoftTemplate.*" />
+          <option name="PATTERN" value="com.assuresoftFactoryMethod.TestFactoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern" />
+      <option name="MAIN_CLASS_NAME" value="com.assuresoftFactoryMethod.TestFactoryPattern.PlanTest" />
+      <option name="METHOD_NAME" value="calculateBill" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <list>
-      <item itemvalue="Application.ObserverpatterDemo" />
-      <item itemvalue="Application.StrategyPatterDemo" />
-      <item itemvalue="Application.TempaltePatterDemo" />
-      <item itemvalue="Application.IteratorPatterDemo" />
-      <item itemvalue="Application.CompositeDemo" />
+      <item itemvalue="JUnit.GetPlanFactoryTest.getPlan" />
+      <item itemvalue="JUnit.GetPlanFactoryTest.getPlanComescial" />
+      <item itemvalue="JUnit.GetPlanFactoryTest.getPlanDomestic" />
+      <item itemvalue="JUnit.InstitucionalPlanTest.getRate" />
+      <item itemvalue="JUnit.PlanTest.calculateBill" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompositeDemo" />
-        <item itemvalue="Application.IteratorPatterDemo" />
-        <item itemvalue="Application.TempaltePatterDemo" />
-        <item itemvalue="Application.StrategyPatterDemo" />
-        <item itemvalue="Application.ObserverpatterDemo" />
+        <item itemvalue="JUnit.PlanTest.calculateBill" />
+        <item itemvalue="JUnit.InstitucionalPlanTest.getRate" />
+        <item itemvalue="JUnit.GetPlanFactoryTest.getPlanDomestic" />
+        <item itemvalue="JUnit.GetPlanFactoryTest.getPlanComescial" />
+        <item itemvalue="JUnit.GetPlanFactoryTest.getPlan" />
       </list>
     </recent_temporary>
   </component>
@@ -353,46 +550,117 @@
       <workItem from="1530881112056" duration="10483000" />
       <workItem from="1531140385689" duration="3101000" />
       <workItem from="1531227352763" duration="291000" />
+      <workItem from="1531510582805" duration="7943000" />
+      <workItem from="1531744975836" duration="23041000" />
+      <workItem from="1531831435266" duration="22236000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 13m 12s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 13m 57s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 16m 40s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 18m 28s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 18m 57s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 19m 14s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 20m 03s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 22m 30s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 22m 33s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanTest_calculateBill - 2018.07.17 at 17h 24m 14s.xml">
+      <configuration name="PlanTest.calculateBill" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35112000" />
+    <option name="totallyTimeSpent" value="88364000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="422" y="52" width="1017" height="805" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="92" width="1440" height="654" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3254364" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.50187266" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2642336" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3025641" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3125894" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32793018" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39513108" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39854014" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.329927" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5010352" side_tool="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286004" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32846716" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.329927" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32793018" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3341646" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5010352" side_tool="true" weight="0.24964234" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3258427" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286004" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="10" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16094421" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39650872" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -402,28 +670,148 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="31" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftBridge/SamSungTv.java">
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/Stock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftBridge/AbstractRemoteControl.java">
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/BuyStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftBridge/LogitechRemoteControl.java">
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/Department.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/DiagramComposite.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/Description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/FinalcialDepartament.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftAdapter/TestAdaterPatter/SocketsObjectAdapterImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftAdapter/TestAdaterPatter/SocketClassAdapterImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftAdapter/TestAdaterPatter/AdapterPatterTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftAdapter/TestAdaterPatter/VoltTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResponsability/TestChainResponsability/Dollar50DispenserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/TestBuilderPatter/CDtypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/TestCommandPatter/SellStockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/TestCommandPatter/BuyStockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/TestCommandPatter/BrokerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/HeadDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -434,316 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/FinalcialDepartament.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/Department.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com.assuresoft.patron.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/Screen Shot 2018-07-03 at 4.36.47 PM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/ShapeDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/RedShapeDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResposability.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/DecoratorPatterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResponsability/Dollar50Dispenser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResponsability/Dollar20Dispenser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResponsability/Dollar10Dispenser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResponsability/DisperseChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResponsability/ATMDispenseChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResponsability/Currency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/Broker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/CommandPatterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/SellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/BuyStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/Screen Shot 2018-07-06 at 12.04.50 PM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/HeadDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftObserver/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftObserver/OctalObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftObserver/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftObserver/HexaObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="92" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftObserver/BinaryObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftObserver/ObserverpatterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/Strategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/OperatioMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/OperationAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/OperationSubtract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/StrategyPatterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Cricket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Fooball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/TempaltePatterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/NameRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/IteratorPatterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/CompositeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -751,5 +829,368 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/Description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftCommand/TestCommandPatter/StockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/TestDecoratorPatter/RedShapeDecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/DecoratorPatterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/TestCompositePattern/SalesDepartmentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/TestCompositePattern/HeadDepartmentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/TestCompositePattern/FinalcialDepartamentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="34" column="56" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResponsability/TestChainResponsability/CurrencyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftChainResponsability/TestChainResponsability/Dollar10DispenserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/DomesticPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/CommercialPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/GenerateBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/TestDecoratorPatter/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/RedShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/GetPlanFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/GetPlanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/InstitucionalPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/DomesticPlanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/InstitucionalPlanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/CommercialPlanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/TestDecoratorPatter/CircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/TestFactoryPattern/PlanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/TestDecoratorPatter/RedShapeDecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="41" column="59" selection-start-line="40" selection-start-column="7" selection-end-line="41" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/ShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftFactoryMethod/Plan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/TestBuilderPatter/CDBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftBuilder/Test/CDBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.google.code.maven-play-plugin.com.google.code.eamelink-mockito:mockito-all:1.9.1-20110911</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com.assuresoft.patron</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.google.code.maven-play-plugin.com.google.code.eamelink-mockito:mockito-all:1.9.1-20110911</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

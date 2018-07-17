@@ -6,8 +6,8 @@ public class AdapterPatterTest {
         testObjetAdapter();
 
     }
-    private static void testObjetAdapter(){
-        SocketAdapter socketAdapter =new SocketClassAdapterImpl();
+    public static void testObjetAdapter(){
+        SocketAdapter socketAdapter =new SocketsObjectAdapterImpl();
         Volt v3 = getVolt(socketAdapter,3);
         Volt v12= getVolt(socketAdapter,12);
         Volt v120= getVolt(socketAdapter,120);
@@ -18,7 +18,7 @@ public class AdapterPatterTest {
 
     }
 
-    private static void testClassAdapter(){
+    public static void testClassAdapter(){
         SocketAdapter socketAdapter=new SocketClassAdapterImpl();
         Volt v3=getVolt(socketAdapter,3);
         Volt v12 = getVolt(socketAdapter,12);
@@ -28,7 +28,7 @@ public class AdapterPatterTest {
         System.out.print("v12 volts using Object Adapter="+v12.getVolts());
         System.out.print("v123 volts using Object Adapter="+v120.getVolts());
     }
-    private static Volt getVolt(SocketAdapter socketAdapter, int i){
+    public static Volt getVolt(SocketAdapter socketAdapter, int i){
 
         switch (i){
             case 3:return socketAdapter.get3Volt();

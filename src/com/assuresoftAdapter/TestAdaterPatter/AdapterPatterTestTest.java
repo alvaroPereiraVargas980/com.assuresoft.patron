@@ -1,4 +1,4 @@
-package com.assuresoftAdapter.Test;
+package com.assuresoftAdapter.TestAdaterPatter;
 
 import com.assuresoftAdapter.*;
 import org.junit.Test;

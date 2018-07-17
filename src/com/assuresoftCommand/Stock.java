@@ -8,6 +8,6 @@ public class Stock {
         System.out.print("Strock [Name: " + name + "Quality:"+quality+"] bought" );
     }
     public void sell(){
-        System.out.print("Stock [ NameL" + name + "Quality:" + quality+"] bought");
+        System.out.print("Stock [ NameL" + name + "Quality:" + quality+"] bought ");
     }
 }

@@ -1,7 +1,7 @@
 package com.assuresoftFactoryMethod;
 
 abstract class Plan {
-    protected double rate;
+    public double rate;
     abstract void getRate();
 
     public void calculateBill(int units){

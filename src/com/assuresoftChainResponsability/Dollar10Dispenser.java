@@ -17,6 +17,10 @@ public class Dollar10Dispenser implements DisperseChain {
 
             }else {
                 this.chain.disperse(cur);
+
+
             }
+
+
     }
 }

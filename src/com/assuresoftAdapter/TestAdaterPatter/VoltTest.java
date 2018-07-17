@@ -1,14 +1,12 @@
-package com.assuresoftAdapter.Test;
+package com.assuresoftAdapter.TestAdaterPatter;
 
 import com.assuresoftAdapter.Volt;
 import org.junit.Before;
 import org.junit.Test;
-import org.mockito.Mockito;
 
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.doNothing;
 import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.when;
 
 
 public class VoltTest {
