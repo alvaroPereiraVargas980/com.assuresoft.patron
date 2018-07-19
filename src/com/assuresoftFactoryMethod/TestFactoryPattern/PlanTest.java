@@ -27,7 +27,7 @@ public class PlanTest {
 
     @Test
     public void getRate() {
-// there is no a specific way to determinade this method.
+// there is not a specific way to determinade this method.
     }
 
     @Test

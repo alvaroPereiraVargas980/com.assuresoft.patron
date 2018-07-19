@@ -30,9 +30,19 @@ public class GetPlanFactoryTest {
 
     @Test
     public void getPlanDomestic() {
-        when(getPlanFactory.getPlan("DOMESTICPLAN")).thenReturn(domesticPlan).thenReturn(commercialPlan).thenReturn(institucionalPlan);
+        when(getPlanFactory.getPlan("DOMESTICPLAN")).thenReturn(domesticPlan);
        assertNotNull(getPlanFactory.getPlan("DOMESTICPLAN"));
 
+    }
+    @Test
+    public void getPlanComercial() {
+        when(getPlanFactory.getPlan("COMMERCIALPLAN")).thenReturn(commercialPlan);
+        assertNotNull(getPlanFactory.getPlan("COMMERCIALPLAN"));
+    }
+    @Test
+    public void getPlanInstitucional() {
+        when(getPlanFactory.getPlan("INSTITUCIONALPLAN")).thenReturn(institucionalPlan);
+        assertNotNull(getPlanFactory.getPlan("INSTITUCIONALPLAN"));
     }
     }
 
