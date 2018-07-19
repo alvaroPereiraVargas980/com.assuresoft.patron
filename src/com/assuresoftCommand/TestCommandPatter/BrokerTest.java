@@ -32,8 +32,11 @@ public class BrokerTest {
 
     @Test
     public void palceOrders() throws Exception{
-
+        List<Order> orderList=new ArrayList<Order>();
+        List spy=spy(orderList);
        doNothing().when(broker).palceOrders();
+       spy.clear();
+       verify(spy,atLeast(1)).clear();
     }
 
 }

@@ -10,14 +10,17 @@ import org.mockito.InjectMocks;
 public class BuyStockTest {
 
     private Stock abcStock;
+    private BuyStock buyStock;
 
     @Before
     public void setUpMock(){
         abcStock = mock(Stock.class);
-
+        buyStock=mock(BuyStock.class);
     }
     @Test
     public void execute()throws Exception {
         doNothing().when(abcStock).buy();
+        buyStock.execute();
+        verify(buyStock,atLeastOnce()).execute();
     }
 }
