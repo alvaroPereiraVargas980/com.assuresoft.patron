@@ -28,11 +28,20 @@ public class RedShapeDecoratorTest {
     }
 
     @Test
-    public void draw() {
+    public void drawSuper() {
         RedShapeDecorator spy= spy(new RedShapeDecorator(shape));
         doNothing().when((ShapeDecorator)spy).draw();
         spy.draw();
         verify(spy).draw();
+
+    }
+    @Test
+    public void drawCalling(){
+        redShapeDecorator.draw();
+        verify(redShapeDecorator,atLeastOnce()).draw();
+        redShapeDecorator.setRedBorder(shape);
+        verify(redShapeDecorator,atLeastOnce()).setRedBorder(shape);
+
     }
 
     @Test
