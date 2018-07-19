@@ -1,17 +1,13 @@
 package com.assuresoftComposite.TestCompositePattern;
 
 
-import com.assuresoftCommand.Order;
 import com.assuresoftComposite.Department;
 import com.assuresoftComposite.HeadDepartment;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
-
 import java.util.ArrayList;
 import java.util.List;
-
-import static org.mockito.Matchers.isA;
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
 
@@ -40,7 +36,7 @@ public class HeadDepartmentTest {
         List<Department> departmentList= new ArrayList<>();
         List spy= Mockito.spy(departmentList);
         doReturn(true).when(spy).remove(department);
-        assertTrue(spy.add(department));
+        assertTrue(spy.remove(department));
     }
 
     @Test
