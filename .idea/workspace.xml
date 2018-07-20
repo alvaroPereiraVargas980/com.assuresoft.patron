@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c78bc7c-ebeb-44c9-b9d7-1319fc5254c8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/assuresoftIterator/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assuresoftIterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assuresoftIterator/IteratorPatterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assuresoftIterator/NameRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assuresoftTemplate/Fooball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assuresoftTemplate/TempaltePatterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8c78bc7c-ebeb-44c9-b9d7-1319fc5254c8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,20 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OperationSubtract.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/OperationSubtract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StrategyPatterDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/StrategyPatterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -50,15 +33,15 @@
       <file leaf-file-name="Cricket.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Cricket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
                 <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,15 +50,11 @@
       <file leaf-file-name="Fooball.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Fooball.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="225">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/TempaltePatterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -93,8 +72,17 @@
       <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/Iterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompositeDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/CompositeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -108,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NameRepository.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NameRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/NameRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -120,8 +108,8 @@
       <file leaf-file-name="IteratorPatterDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/IteratorPatterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -213,8 +201,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="335" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="422" />
     <option name="y" value="52" />
     <option name="width" value="1017" />
     <option name="height" value="805" />
@@ -248,15 +236,15 @@
               <item name="com.assuresoft.patron" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="assuresoftIterator" type="462c0819:PsiDirectoryNode" />
+              <item name="assuresoftComposite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,13 +268,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IteratorPatterDemo">
-    <configuration name="CommandPatterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assuresoftCommand.CommandPatterDemo" />
+  <component name="RunManager" selected="Application.CompositeDemo">
+    <configuration name="CompositeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assuresoftComposite.CompositeDemo" />
       <module name="com.assuresoft.patron" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assuresoftCommand.*" />
+          <option name="PATTERN" value="com.assuresoftComposite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,19 +320,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.CommandPatterDemo" />
       <item itemvalue="Application.ObserverpatterDemo" />
       <item itemvalue="Application.StrategyPatterDemo" />
       <item itemvalue="Application.TempaltePatterDemo" />
       <item itemvalue="Application.IteratorPatterDemo" />
+      <item itemvalue="Application.CompositeDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompositeDemo" />
         <item itemvalue="Application.IteratorPatterDemo" />
         <item itemvalue="Application.TempaltePatterDemo" />
         <item itemvalue="Application.StrategyPatterDemo" />
         <item itemvalue="Application.ObserverpatterDemo" />
-        <item itemvalue="Application.CommandPatterDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -363,46 +351,47 @@
       <workItem from="1530623355874" duration="9276000" />
       <workItem from="1530800230993" duration="7868000" />
       <workItem from="1530881112056" duration="10483000" />
-      <workItem from="1531140385689" duration="2048000" />
+      <workItem from="1531140385689" duration="3101000" />
+      <workItem from="1531227352763" duration="291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33768000" />
+    <option name="totallyTimeSpent" value="35112000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="601" y="49" width="1017" height="805" extended-state="0" />
+    <frame x="422" y="52" width="1017" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32917705" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2642336" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2642336" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29641026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3025641" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39854014" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39854014" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.329927" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286004" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32846716" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,13 +585,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/assuresoftDecorator/Screen Shot 2018-07-06 at 12.04.50 PM.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/CompositeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/HeadDepartment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -628,9 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,10 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,10 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,7 +672,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/assuresoftStrategy/StrategyPatterDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -714,30 +685,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Cricket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="165">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
             <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
             <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/Fooball.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="225">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -745,7 +712,21 @@
     <entry file="file://$PROJECT_DIR$/src/com/assuresoftTemplate/TempaltePatterDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/NameRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/IteratorPatterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -758,22 +739,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/IteratorPatterDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/assuresoftComposite/CompositeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assuresoftIterator/NameRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
         </state>
       </provider>
     </entry>
